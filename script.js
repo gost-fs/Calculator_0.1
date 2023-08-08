@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   
 
-const themeToggleBtn = document.querySelector('.them-toggler');
+const themeToggleBtn = document.querySelector('.theme-toggler');
 const calculator = document.querySelector('.calculator');
 const toggleIcon = document.querySelector('.toggler-icon');
 let isDark = true;

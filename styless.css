@@ -142,12 +142,13 @@ button#equal {
 /*dark theme*/
 
 .calculator.dark {
-    background-color: #071115;
+    background-color: #01070a;
+    color: white;
 }
 
 
 .calculator.dark#display {
-    color: #f8fafd;
+    color: #2e3c51;
 
 }
 .calculator.dark button#clear{
@@ -157,7 +158,7 @@ button#equal {
 
 .calculator.dark button.btn-number {
     background-color: #1b2f38;
-    color: #f8fafd;
+    color: #ffffff;
 }
 
 .calculator.dark button.btn-operator {
